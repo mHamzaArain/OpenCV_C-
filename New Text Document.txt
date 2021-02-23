@@ -1,0 +1,14 @@
+
+
+Include Directories: 
+=====================
+D:\code\OpenCV\opencv\build\include;$(IncludePath)
+
+
+Library Directories:
+====================
+D:\code\OpenCV\opencv\build\x64\vc15\lib;$(LibraryPath)
+
+Link > input 
+=============
+opencv_world450d.lib
